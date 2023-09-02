@@ -385,7 +385,7 @@
     (function() {
         let pwd = '8ccaee4f3f372dbcf8b37ea3b253a9b850f5c725e7592807796b51a9585d27f6';
         if (pwd && pwd.length > 0) {
-            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+            if (pwd !== CryptoJS.SHA256(prompt('Password')).toString(CryptoJS.enc.Hex)) {
                 alert('密码错误，将返回主页！（如无密码请先联系管理员）');
                 location.href = '/';
             }
@@ -423,12 +423,12 @@
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/%E6%95%B0%E5%AD%97%E8%97%8F%E4%B9%A6/">
-                                <span class="chip bg-color">数字藏书</span>
-                            </a>
-                        
                             <a href="/tags/%E6%89%8B%E6%8A%84%E6%9C%AC/">
                                 <span class="chip bg-color">手抄本</span>
+                            </a>
+                        
+                            <a href="/tags/%E6%95%B0%E5%AD%97%E8%97%8F%E4%B9%A6/">
+                                <span class="chip bg-color">数字藏书</span>
                             </a>
                         
                     </div>
@@ -538,12 +538,12 @@
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/%E6%95%B0%E5%AD%97%E8%97%8F%E4%B9%A6/">
-                                    <span class="chip bg-color">数字藏书</span>
-                                </a>
-                            
                                 <a href="/tags/%E6%89%8B%E6%8A%84%E6%9C%AC/">
                                     <span class="chip bg-color">手抄本</span>
+                                </a>
+                            
+                                <a href="/tags/%E6%95%B0%E5%AD%97%E8%97%8F%E4%B9%A6/">
+                                    <span class="chip bg-color">数字藏书</span>
                                 </a>
                             
                         </div>
@@ -747,12 +747,12 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E6%95%B0%E5%AD%97%E8%97%8F%E4%B9%A6/">
-                        <span class="chip bg-color">数字藏书</span>
-                    </a>
-                    
                     <a href="/tags/%E6%89%8B%E6%8A%84%E6%9C%AC/">
                         <span class="chip bg-color">手抄本</span>
+                    </a>
+                    
+                    <a href="/tags/%E6%95%B0%E5%AD%97%E8%97%8F%E4%B9%A6/">
+                        <span class="chip bg-color">数字藏书</span>
                     </a>
                     
                     <a href="/tags/%E5%9C%B0%E7%90%86/">

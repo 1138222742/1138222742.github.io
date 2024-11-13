@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://yibocangshu.com</id>
+    <id>http://1138222742.github.io</id>
     <title>Gridea</title>
-    <updated>2024-11-13T08:03:38.182Z</updated>
+    <updated>2024-11-13T08:04:24.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://yibocangshu.com"/>
-    <link rel="self" href="http://yibocangshu.com/atom.xml"/>
+    <link rel="alternate" href="http://1138222742.github.io"/>
+    <link rel="self" href="http://1138222742.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://yibocangshu.com/images/avatar.png</logo>
-    <icon>http://yibocangshu.com/favicon.ico</icon>
+    <logo>http://1138222742.github.io/images/avatar.png</logo>
+    <icon>http://1138222742.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://yibocangshu.com/post/hello-gridea</id>
-        <link href="http://yibocangshu.com/post/hello-gridea">
+        <id>http://1138222742.github.io/post/hello-gridea</id>
+        <link href="http://1138222742.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
